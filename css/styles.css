@@ -137,8 +137,10 @@ body {
      color: #4D5AE5;
      display: flex; 
      display: inline-block;
-     margin-right: 76px
- }
+     margin-right: 76px;
+     margin-bottom: 16px;
+  }
+
  .menu-link {
  font-family: 'Roboto', sans-serif;
  font-style: normal;
